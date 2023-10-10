@@ -8,7 +8,7 @@ body {
 
 .header {
     border-bottom: 3px solid #00a8ff;
-    background-color: black;
+    background-color: #151A1D;
     margin: 0px 0px 3px 0px;
     display: flex;
     justify-content: space-between;
@@ -97,6 +97,7 @@ body {
 }
 .card {
     width: 30% ;
+    right: 30%;
     background-color: #ffe8f9;
     border-radius: 15px;
     display: flex;
@@ -150,4 +151,5 @@ body {
     height: 30px;
     align-self: center;
  }
+ 
 
